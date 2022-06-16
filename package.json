@@ -1,0 +1,25 @@
+{
+  "name": "decrashify",
+  "version": "1.0.0",
+  "description": "over simple thing to prevent your app from crashing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/French-Cat/decrashify.git"
+  },
+  "keywords": [
+    "anttcrash",
+    "preventcrash",
+    "nocrash",
+    "crash"
+  ],
+  "author": "https://frcat.win",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/French-Cat/decrashify/issues"
+  },
+  "homepage": "https://github.com/French-Cat/decrashify#readme"
+}
